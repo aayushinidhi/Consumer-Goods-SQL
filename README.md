@@ -31,18 +31,29 @@ Actionable Insights 💡:
 ________________________________________
 Outcome 🎯:
 Through this project, I demonstrated:
+
 •	Strong proficiency in SQL querying and data analysis.
+
 •	Ability to visualize complex data for easy understanding.
+
 •	Excellent communication skills, effectively conveying actionable insights to the management team.
 ________________________________________
 Files in this Repository 📂:
+
 •	ad-hoc-requests.pdf: 
+
 o	Document containing the 10 ad-hoc business requests.
+
 •	SQL Queries: 
+
 o	Requests containing SQL scripts used to extract data.
+
 •	Power BI Visualizations: 
+
 o	Folder with Power BI files showing visual representations of the data.
+
 •	Presentation: 
+
 o	PowerPoint file showcasing insights and recommendations.
 ________________________________________
 How to Use 🔧:
