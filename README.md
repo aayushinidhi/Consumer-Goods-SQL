@@ -68,19 +68,25 @@ PowerPoint file showcasing insights and recommendations.
 
 How to Use 🔧
 
-SQL Queries:
+1) SQL Queries:
+   
+->Navigate to the folder where the SQL queries are stored (likely your file explorer or a folder on your system).
+->Open the SQL scripts using your MySQL client (like MySQL Workbench or phpMyAdmin).
+->Run the SQL queries to extract the required data from your database.
 
-Navigate to the SQL Queries folder.
+2) Power BI Visualizations:
+   
+->Open the Power BI Desktop application.
+->Open the Power BI file(s) that contain the visualizations.
+->Review the visualizations and interact with them to understand the data representation.
+->You can click on various charts or filters to explore the data in detail.
 
-Run the SQL scripts in your MySQL environment to extract the required data.
-
-Power BI Visualizations:
-
-Open the Power BI files in Power BI Desktop to view the visualizations.
-
-Presentation:
-
-Open the PowerPoint file to view the presentation designed for top-level management.
+3) Presentation:
+   
+->Open the PowerPoint file.
+->Review the slides that were designed for top-level management.
+->Bullet points might be used to clearly highlight key points for the presentation.
+->Ensure the design is focused and clean, suitable for presenting data and insights to senior management.
 
 Conclusion ✨
 
