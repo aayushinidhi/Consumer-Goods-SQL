@@ -6,11 +6,11 @@ Challenge 🧐
 AtliQ Hardwares identified a gap in their ability to make quick, smart, and data-informed decisions. To bridge this gap, they aimed to expand their data analytics team by hiring junior data analysts proficient in both technical and soft skills.
 
 Goal:
-
 Expand the team and evaluate potential candidates' skills.
-Tony Sharma's Approach:
 
+Tony Sharma's Approach:
 Created an SQL challenge to assess both technical and communication skills.
+
 My Task 📊
 
 As a hypothetical applicant for this role, I was tasked with:
@@ -33,11 +33,13 @@ Leveraged Power BI to create dynamic visualizations, making the insights clear a
 Designed an engaging Microsoft PowerPoint presentation to effectively communicate the insights and recommendations.
 
 Actionable Insights 💡
+
 Analyzed and presented key data points to assist management in making informed decisions.
 
 Provided recommendations based on data trends, helping to enhance business strategies.
 
 Outcome 🎯
+
 Through this project, I demonstrated:
 
 Strong proficiency in SQL querying and data analysis.
